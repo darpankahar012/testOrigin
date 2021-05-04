@@ -16,6 +16,7 @@ build/
 *.py[cod]
 
 # Log files
+# Log files
 *.log
 
 # Package files
